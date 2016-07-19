@@ -1,5 +1,5 @@
 # Don’t be an asshole and talk to your clients as much as physically possible...
-A talk for the Iron Yard students on how to freelance
+A talk on how to freelance
 
 ## Tools
 
