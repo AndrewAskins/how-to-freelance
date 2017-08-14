@@ -27,8 +27,13 @@ A talk on how to freelance
 
 * [Digital Ocean](https://m.do.co/c/1075cafd3e32)
 
+### Estimates
+
+* [Albatross - Smart Project Estimates](http://getalbatross.com)
+
 ## Blogs
 
+* [Double Your Freelancing](https://doubleyourfreelancing.com/)
 * [Unmatched Style](http://unmatchedstyle.com/news)
 * [Krit](http://builtbykrit.com/blog)
 * [Freelancer's Union](https://blog.freelancersunion.org/)
