@@ -29,7 +29,7 @@ A talk on how to freelance
 
 ### Estimates
 
-* [Albatross - Smart Project Estimates](http://getalbatross.com)
+* [Albatross - Smart Project Estimates](http://getalbatross.com/?ref=howtofreelance)
 
 ## Blogs
 
