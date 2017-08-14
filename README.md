@@ -31,6 +31,10 @@ A talk on how to freelance
 
 * [Albatross - Smart Project Estimates](http://getalbatross.com/?ref=howtofreelance)
 
+### Lawyer
+
+* [CPERL Group](http://www.cperlgroup.com/)
+
 ## Blogs
 
 * [Double Your Freelancing](https://doubleyourfreelancing.com/)
