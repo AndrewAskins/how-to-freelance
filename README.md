@@ -1,4 +1,4 @@
-# Don’t be an asshole and talk to your clients as much as physically possible...
+# Do work. Make money.
 A talk on how to freelance
 
 ## Tools
